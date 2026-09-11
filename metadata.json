@@ -1,0 +1,6 @@
+{
+  "name": "SafeRoute AI",
+  "description": "AI-powered safe navigation platform for women travelling at night with smart route scoring, SHAP explainability, and emergency assistance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
